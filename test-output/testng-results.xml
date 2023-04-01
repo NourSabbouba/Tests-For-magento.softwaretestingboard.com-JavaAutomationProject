@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-17T15:17:10 GST" name="Default suite" finished-at="2023-03-17T15:23:06 GST" duration-ms="355914">
+    <groups>
+    </groups>
+    <test started-at="2023-03-17T15:17:10 GST" name="Default test" finished-at="2023-03-17T15:23:06 GST" duration-ms="355914">
+      <class name="Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests@2e005c4b]" started-at="2023-03-17T15:17:10 GST" name="setUp" finished-at="2023-03-17T15:17:16 GST" duration-ms="6680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="A_SignUp()[pri:1, instance:Tests@2e005c4b]" started-at="2023-03-17T15:17:16 GST" name="A_SignUp" finished-at="2023-03-17T15:17:31 GST" duration-ms="14995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_SignUp -->
+        <test-method signature="B_RandSearch()[pri:2, instance:Tests@2e005c4b]" started-at="2023-03-17T15:17:31 GST" name="B_RandSearch" finished-at="2023-03-17T15:17:45 GST" duration-ms="13557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_RandSearch -->
+        <test-method signature="C_AddItems()[pri:3, instance:Tests@2e005c4b]" started-at="2023-03-17T15:17:45 GST" name="C_AddItems" finished-at="2023-03-17T15:18:37 GST" duration-ms="51894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C_AddItems -->
+        <test-method signature="D_CheckOut()[pri:4, instance:Tests@2e005c4b]" started-at="2023-03-17T15:18:37 GST" name="D_CheckOut" finished-at="2023-03-17T15:19:10 GST" duration-ms="32879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D_CheckOut -->
+        <test-method signature="E_Placeorder()[pri:5, instance:Tests@2e005c4b]" started-at="2023-03-17T15:19:10 GST" name="E_Placeorder" finished-at="2023-03-17T15:19:27 GST" duration-ms="17070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E_Placeorder -->
+        <test-method signature="F_ReOrder()[pri:6, instance:Tests@2e005c4b]" started-at="2023-03-17T15:19:27 GST" name="F_ReOrder" finished-at="2023-03-17T15:22:55 GST" duration-ms="207731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F_ReOrder -->
+        <test-method signature="G_AssertPrices()[pri:7, instance:Tests@2e005c4b]" started-at="2023-03-17T15:22:55 GST" name="G_AssertPrices" finished-at="2023-03-17T15:23:06 GST" duration-ms="11068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- G_AssertPrices -->
+      </class> <!-- Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
